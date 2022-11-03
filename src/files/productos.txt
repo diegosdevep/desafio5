@@ -1,0 +1,4 @@
+[{"title":"Escuadra","price":123.45,"thumbnail":"image1","id":1},
+{"title":"Calculadora","price":234.56,"thumbnail":"imagen2","id":2},
+{"title":"Globo Terráqueo","price":345.67,"thumbnail":"imagen3","id":3},
+{"title":"telefono","price":"300","thumbnail":"https://www.google.com/aclk?sa=l&ai=DChcSEwjwjYzCgZH7AhWL3FEKHWfvDukYABABGgJ3cw&sig=AOD64_3SwVdidJ9EcR0_SIU3zqmgosntKQ&adurl&ctype=5&ved=2ahUKEwjxw4DCgZH7AhVIVKQEHV_HCSEQvhd6BAgBEG8","id":4}]
